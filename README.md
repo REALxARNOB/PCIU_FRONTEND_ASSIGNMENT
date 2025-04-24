@@ -1,1 +1,1 @@
-<h1>This is a simple porfolio website made with <b>HTML</b> and CSS and it was a class assignment by the computer club of Port City International University under the Frontend Development Workshop.</h1>
+<p>This is a simple porfolio website made with <b color="red">HTML</b> and CSS and it was a class assignment by the computer club of Port City International University under the Frontend Development Workshop.</p>
