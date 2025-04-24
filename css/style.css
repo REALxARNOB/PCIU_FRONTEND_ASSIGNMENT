@@ -1,0 +1,35 @@
+html{
+    font-size: 100%;
+    font-weight: bold;
+}
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: #393E46;
+    color: #ffffff;
+    padding: 20px;
+}
+.info{
+    text-align: center;
+}
+.contents{
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+    background: #7289da;
+    padding: 30px;
+    border-radius: 12px;
+    margin: auto;
+    flex-direction: column;
+}
+.image{
+    display: flex;
+    cursor: grab;
+}
+.border{
+    border-radius: 10%;
+}
+.contacts{
+    text-align: center;
+}
