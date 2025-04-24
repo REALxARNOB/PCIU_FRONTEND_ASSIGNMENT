@@ -18,8 +18,9 @@ body {
     display: flex;
     align-items: center;
     background: #7289da;
-    padding: 30px;
-    border-radius: 12px;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: dashed;
     margin: auto;
     flex-direction: column;
 }
